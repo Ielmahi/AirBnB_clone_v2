@@ -365,5 +365,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Ielmahi** <[Nicks](https://github.com/Ielmahi)>
+* **Ielmahi** <[Ielmahi](https://github.com/Ielmahi)>
 
