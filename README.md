@@ -1,4 +1,4 @@
-<h1 align="center">HolbertonBnB</h1>
+<h1 align="center">AirBnB clone - MySQL</h1>
 <p align="center">An AirBnB clone.</p>
 
 <p align="center">
@@ -364,6 +364,7 @@ Alternatively, you can specify a single test file to run at a time:
 $ python3 unittest -m tests/test_console.py
 ```
 
-## Authors :black_nib:
+## Authors :black_nib:✅
 * **Ielmahi** <[Ielmahi](https://github.com/Ielmahi)>
+* **yassinsl** <[yassinsl](https://github.com/yassinsl)>
 
